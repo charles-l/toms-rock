@@ -7,3 +7,4 @@ All sprites/music/sfx were created from scratch for the jam.
 There are a few instances of zig features I was able to leverage, but
 much of the code is jam-code and isn't written properly.
 
+[Post-mortem/writeup](https://c.har.li/e/2022/05/28/Making-of-Toms-Rock.html)
